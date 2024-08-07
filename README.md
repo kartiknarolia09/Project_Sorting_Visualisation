@@ -31,9 +31,11 @@ Available Controls inside Sorting Visualizer:-
 # Samples
 
 - Sample 1 (Insertion Sort)
+
 ![example1](https://github.com/user-attachments/assets/3cbfdbaa-f308-4a69-82db-370bed318b03)
 
 - Sample 2 (Merge Sort)
+
 ![example2](https://github.com/user-attachments/assets/8796441c-357a-43cc-8533-601355fd79c4)
 
 
